@@ -1,0 +1,11 @@
+# Project Log
+- Roles: Data Lead (Brandon), Viz Lead (Bryan), Writer (Payton), Integrator (Bryan)
+- What went well:
+  - Identifying tasks and what needed to be done came first.
+  - Following that part, reading directions and understanding what needed to be done we were able to split the work.
+  - Once the work was split based on what seemed appropriate we were able to get everything done.
+- Challenges:
+  - Initial challenges were splitting up work load and choosing who should be doing what.
+  - Not every tile had the same amount of work dedicated for it so there was discussion on what each person should be given for their part of work.
+- Next steps / recommendations:
+  - Next steps from when the work was assigned was what could be done within the day and what may need to be done in the future.
